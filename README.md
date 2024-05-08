@@ -20,3 +20,6 @@
 ---
 
 > 💌  [ WeChat | QQ ] :  **2019809069**  ->  Find Me
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiphin&theme=monokai" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiphin&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" />

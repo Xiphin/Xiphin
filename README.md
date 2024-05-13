@@ -11,7 +11,7 @@
 
 #### 🔖 Tech Stack
 
-[![My Stack](https://skillicons.dev/icons?i=js,ts,css,sass,less,vue,react,vite,go,java,php,python&perline=12)](https://github.com/xlstudio)
+[![My Stack](https://skillicons.dev/icons?i=nodejs,js,ts,css,sass,vue,react,vite,go,java,php,python&perline=12)](https://github.com/xlstudio)
 
 #### 🛠 Tech Tools
 
